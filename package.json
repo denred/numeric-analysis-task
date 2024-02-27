@@ -1,0 +1,19 @@
+{
+  "name": "bad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Denis Redkin",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "fastpriorityqueue": "^0.7.4"
+  }
+}
